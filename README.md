@@ -1,4 +1,4 @@
-# Research Paper → Toy Implementation (Claude Project)
+# Research Paper → V1.1 Implementation
 
 This repository configures Claude to transform **research papers into runnable, pedagogical Jupyter notebooks**.
 
